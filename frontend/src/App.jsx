@@ -23,7 +23,7 @@ function App() {
       <footer className="bg-white border-t border-gray-200 mt-auto">
         <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8 flex justify-center items-center">
           <p className="text-gray-500 text-sm">
-            &copy; {new Date().getFullYear()} Intertoons Essentials. All rights reserved.
+            &copy; {new Date().getFullYear()} Essentials. All rights reserved.
           </p>
         </div>
       </footer>
